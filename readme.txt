@@ -1,16 +1,20 @@
 === About Us Widget ===
-Contributors: fernando
-Tags: Widget, About, Simple, Easy
+Contributors: fervillz
+Plugin URI:   https://wordpress.org/plugins/about-us-widget
+Tags: Widget, About, Simple, Easy, Widget
 Requires at least: 3.9
 Tested up to: 4.4.2
-Stable tag: 1.0.0
+Stable tag:1.0.3
+Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U5T8UJAMEKWW6
+
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Gives adaptable and highly organized recent posts. Show it through shortcode or widget with thumbnails, post excerpt, taxonomy, category and considerably more.
+Easy installation - No settings needed, just add the link of your image, write desciption and paste link to your about us page or any page. Use widget to show it to your sidebar or footer.
 
 == Description ==
-This plugin will empower a custom, adaptable and easy to use recent posts widget, you can show it by means of shortcode or widget. Permits you to show a list of the latest posts with thumbnail, excerpt, post date and comments, likewise you can show it from all or multiple taxonomy, post type and considerably more!
+Enhance your website with this easy to use about us widget. Easy to use, first install, update, go to widgets and drag 'About Us Widget' widget to sidebar. Add your title, link to image, short descrition and link to about page or any other page. That's all and it works like a charm
 
 == Installation ==
 **Very Important**
@@ -48,5 +52,15 @@ Whenever you update the plugin, make sure to deactivate the previous version and
 1. The widget settings
 
 == Changelog ==
+= 1.0.3 - 24/03/2016 =
+* Update Author and Add donation link
+
+== Changelog ==
+= 1.0.2 - 24/03/2016 =
+* Update Author and Plugin URL
+
+= 1.0.1 - 24/03/2016 =
+* Update description
+
 = 1.0.0 - 23/03/2016 =
 * Initial release

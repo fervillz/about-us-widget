@@ -1,12 +1,12 @@
 <?php
 /**
  * Plugin Name:  About Us Widget
- * Plugin URI:   http://fernandovillamorjr.com/plugins/about-us-widget/
+ * Plugin URI:   https://wordpress.org/plugins/about-us-widget
  * Description:  Easy installation - No settings needed, just add the link of your image, write desciption and paste link to your about us page or any page. Use widget to show it to your sidebar or footer.
- * Version:      1.0.0
+ * Version:      1.0.3
  * Author:       Fernando Villamor Jr
  * Author URI:   http://fernandovillamorjr.com/
- * Author Email: admin@fernandovillamorjr.com
+ * Author Email: fervillz@gmail.com
  * Text Domain:  auw
  * Domain Path:  /lang
  *
