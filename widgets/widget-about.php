@@ -159,10 +159,11 @@ Class auw_widget extends WP_Widget{
 		}
 
 
-		if ($auw_about_url) {
-				echo '<a href="'. $auw_about_url .'" class="footer-about-lmore">Learn more</a>';
-
-		}
+		if ($auw_about_url) { ?>
+			<a href="<?php echo $auw_about_url; ?>" class="footer-about-lmore">
+				<?php _e('Learn more') ?>
+			</a>
+		<?php }
 
 	
 		echo "</div>";

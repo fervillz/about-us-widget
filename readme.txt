@@ -4,7 +4,7 @@ Plugin URI:   https://wordpress.org/plugins/about-us-widget
 Tags: Widget, About, Simple, Easy, Widget
 Requires at least: 3.9
 Tested up to: 4.4.2
-Stable tag:1.0.3
+Stable tag: 1.0.5
 Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U5T8UJAMEKWW6
 
 Stable tag: 1.0.2
@@ -23,14 +23,14 @@ Whenever you update the plugin, make sure to deactivate the previous version and
 
 **Automatic installation**
 
-*This is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install of Recent Posts Widget Pro.
+*This is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install of About Us Widget.
 
 1. Log in to your WordPress dashboard and go to Plugins -> Add New
-2. In the search field type **Recent Posts Widge Pro** and click Search Plugins.
-3. Find Recent Posts Widget Pro.
+2. In the search field type **About Us Widget** and click Search Plugins.
+3. Find About Us Widget.
 4. Then click on Install Now after that activate the plugin.
 5. Go to the widgets page **Appearance -> Widgets**.
-6. Find **Recent Posts Pro** widget.
+6. Find **About Us Widget** widget.
 
 **Manual installation or Installing Via FTP**
 
@@ -38,11 +38,11 @@ Whenever you update the plugin, make sure to deactivate the previous version and
 
 1. Download the plugin to your hardisk.
 2. Unzip.
-3. Upload the **recent-posts-widget-pro** folder into your plugins directory.
+3. Upload the **about-us-widget** folder into your plugins directory.
 4. Log in to your WordPress admin panel and click the Plugins menu.
 5. Then activate the plugin.
 6. Go to the widgets page **Appearance -> Widgets**.
-7. Find **Recent Posts Pro** widget.
+7. Find **About Us Widget** widget.
 
 
 == Frequently Asked Questions ==
@@ -52,6 +52,9 @@ Whenever you update the plugin, make sure to deactivate the previous version and
 1. The widget settings
 
 == Changelog ==
+= 1.0.4 - 27/03/2016 =
+* Update readme file
+
 = 1.0.3 - 24/03/2016 =
 * Update Author and Add donation link
 
