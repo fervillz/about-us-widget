@@ -3,7 +3,7 @@
  * Plugin Name:  About Us Widget
  * Plugin URI:   https://wordpress.org/plugins/about-us-widget
  * Description:  Easy installation - No settings needed, just add the link of your image, write desciption and paste link to your about us page or any page. Use widget to show it to your sidebar or footer.
- * Version:      1.0.5
+ * Version:      1.0.6
  * Author:       Fernando Villamor Jr
  * Author URI:   http://fernandovillamorjr.com/
  * Author Email: fervillz@gmail.com

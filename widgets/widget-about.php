@@ -173,6 +173,4 @@ Class auw_widget extends WP_Widget{
 	}
 
 }
-
 ?>
-

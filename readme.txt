@@ -3,8 +3,8 @@ Contributors: fervillz
 Plugin URI:   https://wordpress.org/plugins/about-us-widget
 Tags: Widget, About, Simple, Easy, Widget
 Requires at least: 3.9
-Tested up to: 4.4.2
-Stable tag: 1.0.5
+Tested up to: 4.5.2
+Stable tag: 1.0.6
 Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U5T8UJAMEKWW6
 
 Stable tag: 1.0.2
@@ -52,6 +52,9 @@ Whenever you update the plugin, make sure to deactivate the previous version and
 1. The widget settings
 
 == Changelog ==
+= 1.0.5 - 08/06/2016 =
+* Header info fix
+
 = 1.0.4 - 27/03/2016 =
 * Update readme file
 
